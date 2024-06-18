@@ -1,0 +1,25 @@
+shell = {program = "pwsh"}
+working_directory = "C:\\Users\\ernst\\git"
+live_config_reload = true
+
+[window]
+
+opacity = 0.9
+blur = true
+
+padding.x = 10
+padding.y = 10
+
+decorations = "None"
+decorations_theme_variant = "Light" # "Dark"
+
+startup_mode = "Maximized"
+
+[font]
+
+normal.family = "MesloLGS Nerd Font"
+bold.family = "MesloLGS Nerd Font"
+italic.family = "MesloLGS Nerd Font"
+bold_italic.family = "MesloLGS Nerd Font"
+
+size = 12.0
